@@ -1,11 +1,13 @@
-<h3> (button.title=Open)
+<h3> 
 <body>
+(button.title=Open)
 <button>"Open"</button>
-</h3> 
-</body
+</body>
+</h3>
 <br>
-<body>
-<h3> (button.title=Upload)
+<h3>
+<body> 
+button.title=Upload 
 <button>"Upload"</button>
 </body>
 </h3>
